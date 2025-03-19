@@ -34,3 +34,7 @@
 - summary: |
     Создание игры без авторизации
   status: pass
+
+- summary: |
+    Создание турнира
+  status: fail
