@@ -1,0 +1,36 @@
+---
+- summary: |
+    Регистрация через E-mail
+  status: pass
+
+- summary: |
+    Регистрация через Github
+  status: pass
+
+- summary: |
+    Регистрация через Discord  
+  status: pass
+
+- summary: |
+    Авторизация через E-mail
+  status: pass
+
+- summary: |
+    Авторизация через Github
+  status: pass
+
+- summary: |
+    Авторизация через Discord
+  status: pass
+
+- summary: |
+    Создание игры с ботом (авторизация пройдена)
+  status: pass
+
+- summary: |
+    Создание игры с др. пользователем (авторизация пройдена)
+  status: pass
+
+- summary: |
+    Создание игры без авторизации
+  status: pass
