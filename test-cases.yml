@@ -13,7 +13,7 @@
         - Ввести пароль
         - Ввести подтверждение пароля
         - Нажать на кнопку "Submit"
-   expected-result: |
+  expected-result: |
         Пользователь должен попасть на главную страницу и быть авторизован
 
 - summary: |
@@ -43,7 +43,7 @@
         - Нажать на кнопку "Sign up"
         - Нажать на кнопку "Sign in with Discord"
         - На стороннем сервисе Discord дать соглашения на передачу данных 
-   expected-result: |
+  expected-result: |
         Пользователь должен попасть на главную страницу и быть авторизован
 
 - summary: |
@@ -58,7 +58,7 @@
         - Ввести никнейм(логин)
         - Ввести пароль
         - Нажать на кнопку "Submit"
-   expected-result: |
+  expected-result: |
         Пользователь должен попасть на главную страницу и быть авторизован
 
 - summary: |
@@ -72,7 +72,7 @@
   steps:
         - Нажать на кнопку "Sign in"
         - Нажать на кнопку "Sign in with Github"
-   expected-result: |
+  expected-result: |
         Пользователь должен попасть на главную страницу и быть авторизован
 
 - summary: |
@@ -86,7 +86,7 @@
   steps:
         - Нажать на кнопку "Sign in"
         - Нажать на кнопку "Sign in with Discord"
-   expected-result: |
+  expected-result: |
         Пользователь должен попасть на главную страницу и быть авторизован
 
 - summary: |
@@ -104,7 +104,7 @@
         - Выбрать любой контроль/Time control времени с помощью ползунка
         - Выбрать любую задачу по названию или тегам/Choose task by name or tags
         - Нажать Create battle для начала игры
-   expected-result: |
+  expected-result: |
         Пользователь должен попасть на игровое поле 
 
 - summary: |
@@ -122,7 +122,7 @@
         - Выбрать любой контроль/Time control времени с помощью ползунка
         - Выбрать любую задачу по названию или тегам/Choose task by name or tags
         - Нажать Create battle для начала игры
-   expected-result: |
+  expected-result: |
         Пользователь должен попасть на игровое поле 
 
 - summary: |
@@ -150,5 +150,5 @@
         - Нажать на Tournaments в выпадающем списке
         - Выбрать любые параметры 
         - Нажать Create
-   expected-result: |
+  expected-result: |
         Турнир создан
